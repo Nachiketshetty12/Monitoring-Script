@@ -1,0 +1,4 @@
+{
+  "aa-bb-cc-dd-ee-01": {"ip": "192.168.1.10", "location": "Floor 1 - Room A"},
+  "aa-bb-cc-dd-ee-02": {"ip": "192.168.1.11", "location": "Floor 2 - Room B"}
+}
